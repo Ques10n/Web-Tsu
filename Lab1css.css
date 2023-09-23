@@ -8,7 +8,7 @@ header {
 	background-color: green;
 }
 
-.header-text {
+.text-head {
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
@@ -20,7 +20,7 @@ header {
 	margin-right: auto;
 }
 
-.container {
+.cont {
 	padding: 20px;
 }
 
@@ -42,53 +42,53 @@ header {
 	font-size: 14px;
 }
 
-.link-block {
+.link {
 	text-align: center;
 	margin-bottom: 5px;
 }
 
-.link-block a {
+.link a {
 	color: red;
 }
 
-.list-block h2 {
+.arr h2 {
 	word-spacing: 8px;
 }
 
-.list-block h2 span {
+.arr h2 span {
 	color: red;
 }
 
-.list-block ul li {
+.arr ul li {
 	margin-bottom: 5px;
 }
 
-.list-block ul li:nth-child(2n) {
+.arr ul li:nth-child(2n) {
 	letter-spacing: 5px;
 	color: #00ffff;
 }
 
-.visual-style-block p {
+.style p {
 	margin-top: 8px;
 }
 
-.right-block {
+.block-r {
 	float: right;
 }
 
-.right-block table {
+.block-r table {
 	width: 120px;
 	height: 100px;
 	border: 1px solid white;
 }
 
-.right-block table td {
+.block-r table td {
 	border: 1px solid white;
 	text-align: center;
 	vertical-align: bottom;
 }
 
-.right-block img {
+.block-r img {
 	margin-top: 15px;
 	float: right;
 }
